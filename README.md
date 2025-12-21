@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Autsadayus Sribua (Aut / Mix)
 
-<!--
-**Hightbrids/Hightbrids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Digital Science and Technology, Kasetsart University  
+💻 Interested in Software Development, Web Application & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, React Native  
+- **Backend:** Node.js, PHP  
+- **Database:** MySQL, MongoDB  
+- **Data & AI:** Python, Machine Learning, Streamlit  
+
+---
+
+### 📌 Featured Projects
+- ✈️ **Flight Ticket Booking System** – Web-based flight reservation system using PHP & MySQL  
+- 🚆 **Train North Booking System** – Online train ticket booking and schedule management  
+- 🥦 **AI Vegetable Classification** – Image-based vegetable classification using Machine Learning  
+- 📊 **Bank Marketing ML Prediction** – Predict customer term deposit subscription using ML models  
+- 🛒 **Web Shop – Telephone** – E-commerce website for selling mobile phones  
+- 🥾 **Web Shop – Timberland** – Product catalog and online shopping system  
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/Hightbrids
