@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Autsadayus Sribua (Aut / Mix)
 
-🎓 B.Sc. Digital Science and Technology, Kasetsart University  
+🎓 B.Sc. Digital Science and Technology, Kasetsart University Sriracha 
 💻 Interested in Software Development, Web Application & AI  
 
 ---
