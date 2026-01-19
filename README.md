@@ -2,7 +2,9 @@
 
 🎓 B.Sc. Digital Science and Technology, Kasetsart University Sriracha 
 💻 Interested in Software Development, Web Application & AI  
-
+Tel - 0637912934 
+Email - Autsadayus.s@ku.th  
+link -contrac- https://www.facebook.com/autsadayus.sirbua/
 ---
 
 ### 🔧 Skills
@@ -19,7 +21,9 @@
 - 🥦 **AI Vegetable Classification** – Image-based vegetable classification using Machine Learning  
 - 📊 **Bank Marketing ML Prediction** – Predict customer term deposit subscription using ML models  
 - 🛒 **Web Shop – Telephone** – E-commerce website for selling mobile phones  
-- 🥾 **Web Shop – Timberland** – Product catalog and online shopping system  
+- 🥾 **Web Shop – Timberland** – Product catalog and online shopping system
+- 🧁 **Web  Produce products  -  Product food and online shopping system 
+
 
 ---
 
