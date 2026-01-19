@@ -3,9 +3,11 @@
 🎓 B.Sc. Digital Science and Technology, Kasetsart University Sriracha 
 💻 Interested in Software Development, Web Application & AI  
 Tel - 0637912934 
-Email - Autsadayus.s@ku.th  
+------------------
+Email - Autsadayus.s@ku.th 
+--------------------------
 link -contrac- https://www.facebook.com/autsadayus.sirbua/
----
+--------------------------
 
 ### 🔧 Skills
 - **Frontend:** HTML, CSS, JavaScript, React, React Native  
