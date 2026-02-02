@@ -18,8 +18,6 @@ link -contrac- https://www.facebook.com/autsadayus.sirbua/
 ---
 
 ### 📌 Featured Projects
-- ✈️ **Flight Ticket Booking System** – Web-based flight reservation system using PHP & MySQL  
-- 🚆 **Train North Booking System** – Online train ticket booking and schedule management  
 - 🥦 **AI Vegetable Classification** – Image-based vegetable classification using Machine Learning  
 - 📊 **Bank Marketing ML Prediction** – Predict customer term deposit subscription using ML models  
 - 🛒 **Web Shop – Telephone** – E-commerce website for selling mobile phones  
